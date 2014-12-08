@@ -30,7 +30,6 @@ def findCirculationString(target):
   return maxStr
 
 
-
 # maxLength = 0
 # for i in range(832, 1001):
 #   a = ''.join(divide(1, i))

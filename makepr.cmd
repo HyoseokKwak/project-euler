@@ -1,4 +1,4 @@
-set name=pr-026
+set name=pr-027
 
 mkdir %name%
 cd %name%
